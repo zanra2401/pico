@@ -1,1 +1,46 @@
 PICO - IMAGE SHARING APP
+
+Pitur - pitur :
+
+page login :
+
+- Login/Logout Account
+- Lupa password
+
+Profile page :
+
+- Update profile
+- list gambar yang disimpan
+- my gallery
+- Menambah Gambar
+- follow/following
+
+Followers and following page :
+
+- list
+- urutkan terbaru/terlama
+
+Chat page :
+- Chat
+
+Homepage :
+
+- Daftar gambar
+- Melaporkan
+- Simpan
+- unduh gambar
+
+IMAGE page :
+
+- komentar
+- unduh
+- like
+- dislike
+
+notification page :
+
+- daftar notifikasi
+
+add :
+
+- scaning AI image 18+
